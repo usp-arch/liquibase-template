@@ -1,5 +1,1 @@
 databaseChangeLog:
-  - include:
-      file: /2023/12/Version1703450727.yml
-  - include:
-      file: /2023/12/Version1703451201.yml
